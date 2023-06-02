@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "moduleResolution": "Node",
+    "lib": ["es2015", "es2022", "DOM"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "paths": {
+      "/@/*": ["src/*"],
+      "/@store/*": ["./src/store/*"],
+      "/@components/*": ["./src/components/*"],
+      "/@assets/*": ["./src/assets/*"],
+      "/@http/*": ["./src/http/*"],
+      "/@service/*": ["./src/service/*"]
+      // "@services/*": ["./src/services/*"],
+      // "@vueUtils/*": ["./src/vueUtils/*"],
+      // "@layouts/*": ["./src/layouts/*"],
+      // "@views/*": ["./src/views/*"],
+      // "@assets/*": ["./src/assets/*"],
+      // "@mixins/*": ["./src/mixins/*"]
+    }
+  }
+}

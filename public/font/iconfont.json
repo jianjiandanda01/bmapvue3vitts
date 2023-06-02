@@ -1,0 +1,156 @@
+{
+  "id": "3295099",
+  "name": "金利达",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "903796",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "1409832",
+      "name": "5摄像头",
+      "font_class": "shexiangtou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2477521",
+      "name": "烟感探测器",
+      "font_class": "yangantanceqi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3216590",
+      "name": "办公大楼",
+      "font_class": "bangongdalou",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "3606513",
+      "name": "爱生活-普通区-普",
+      "font_class": "aishenghuo-putongqu-pu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5838778",
+      "name": "重点项目",
+      "font_class": "zhongdianxiangmu",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "7956057",
+      "name": "市政消火栓",
+      "font_class": "shizhengxiaohuoshuan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "10083091",
+      "name": "GIS-图例、图层icon_水池",
+      "font_class": "GIS-tulitucengicon_shuichi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11748259",
+      "name": "电波心电图",
+      "font_class": "dianboxindiantu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12842679",
+      "name": "w_火",
+      "font_class": "w_huo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "33889607",
+      "name": "消防水池",
+      "font_class": "xiaofangshuichi",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "2477514",
+      "name": "室内消火栓",
+      "font_class": "shineixiaohuoshuan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10083063",
+      "name": "GIS-图例、图层icon_蝶阀",
+      "font_class": "GIS-tulitucengicon_diefa",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "956987",
+      "name": "供气阀",
+      "font_class": "gongqifa",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "2477511",
+      "name": "水喷淋",
+      "font_class": "shuipenlin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5387726",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "eb41",
+      "unicode_decimal": 60225
+    },
+    {
+      "icon_id": "7045043",
+      "name": "水泵",
+      "font_class": "shuibeng",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7319018",
+      "name": "装置查询",
+      "font_class": "fuwuqi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "13638674",
+      "name": "水泵房",
+      "font_class": "shuibengfang",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "19811081",
+      "name": "配电柜监测",
+      "font_class": "peidianguijiance_1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "24272022",
+      "name": "成品罐",
+      "font_class": "chengpinguan",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    }
+  ]
+}
